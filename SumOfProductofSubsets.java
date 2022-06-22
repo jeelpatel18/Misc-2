@@ -17,6 +17,9 @@ Products of elements in above subsets : 1, 2, 3, 2, 3, 6, 6
 
 Sum of all products = 1 + 2 + 3 + 2 + 3 + 6 + 6 = 23
 */
+
+//TC : O(N) 
+//SC : O(1)
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello World!");
